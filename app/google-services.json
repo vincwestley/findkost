@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "56675867124",
+    "firebase_url": "https://findkost-78428.firebaseio.com",
+    "project_id": "findkost-78428",
+    "storage_bucket": "findkost-78428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56675867124:android:35cbc5b90ae79f6c",
+        "android_client_info": {
+          "package_name": "bdg.smkn4.findkost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56675867124-20c3hc8epjoc4sq5b57qgq5bjpi88fnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPl6g5AXGaQ0wpmCIoHGsd97J7bGSh4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
